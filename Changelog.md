@@ -1,3 +1,15 @@
+##### 8.2.1
+* Updated for latest Scrap version.
+
+##### 8.2.0
+* Updated for World of Warcraft patch 8.2.0.
+
+##### 8.1.0
+* Updated for World of Warcraft patch 8.1.0.
+
+##### 16
+* Updated for Battle for Azeroth
+
 ##### 15
 * Updated for Shadow of Argus
 
