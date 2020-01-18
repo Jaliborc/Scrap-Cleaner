@@ -1,5 +1,5 @@
 --[[
-Copyright 2010-2019 João Cardoso
+Copyright 2010-2020 João Cardoso
 Scrap Cleaner is distributed under the terms of the GNU General Public License (Version 3).
 As a special exception, the copyright holders of this addon do not give permission to
 redistribute and/or modify it.

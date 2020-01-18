@@ -6,6 +6,6 @@
 ## X-Category: Inventory
 ## X-License: GNU General Public License Version 3
 ## Dependencies: Scrap
-## Version: 8.2.1
+## Version: 8.3.0
 
 Scrap_Cleaner.lua
